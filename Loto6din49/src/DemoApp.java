@@ -12,6 +12,9 @@ public class DemoApp {
 		
 		joc.extragereNumereUser(utilizator.getNumereUser());
 		
+		joc.extragereNumereProgram();
+		
+		
 		
 		
 
